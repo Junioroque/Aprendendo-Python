@@ -1,2 +1,3 @@
-﻿# Python: um novo caminho de aprendizado, organizado e em constante evolução.
+﻿# Python: um novo caminho de aprendizado, organização em andamento constante evolução.
+
 
