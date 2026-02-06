@@ -24,10 +24,29 @@ texto = """
 """
 print(texto)
 
+while(true){
+  
+   escolha = input("Qual produto que você quer: ")
+   quantidade = input("Quantos item você quer: ")
+   
+   if(escolha == 1){
+     boneco = 18.50
+     resultado = boneco * quantidade
+     print(resultado)
+   }elif(escolha == 2){
+     spinner = 12.00
+     resultado = spinner * quantidade
+     print(resultado)
+   }elif(escolha == 3){
+     cubo = 5.90
+     resultado = cubo * quantidade
+     print(resultado)
+   }else{
+     print("Escolha errada! Deseja repetir S- Sim ou N- Não")
+   }
 
+}
 
-escolha = input("Qual produto que você quer: ")
-quantidade = input("Quantos item você quer: ")
 
 print(escolha)
 print(quantidade)
