@@ -1,5 +1,5 @@
 """
-Operadores aritmenticas
+Operadores aritmenticos
 +, -, *, /, //, **, %, ()
 """
 print('muttiplicação *', 10 * 10)

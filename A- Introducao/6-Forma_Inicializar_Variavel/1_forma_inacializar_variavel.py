@@ -1,5 +1,5 @@
 """
-Iniciar com letra, pode conter números, separa -, letras minusculas.
+Iniciar com letra, pode conter números, underline _, letras minusculas.
 """
 nome = 'Junio Cezar'
 idade = 37 # sabe que isso e um int
