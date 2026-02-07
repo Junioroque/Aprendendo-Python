@@ -1,4 +1,4 @@
-class Bicicleta:
+'class Bicicleta:
     def __init__(self, cor, modelo, ano, valor, aro=16):
         self.cor = cor
         self.modelo = modelo
