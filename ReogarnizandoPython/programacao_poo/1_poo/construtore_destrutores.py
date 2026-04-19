@@ -1,4 +1,5 @@
 #metodo construtor e destrutor: __init__ e __del__
+# Usando interador
 
 class Cachorro:
     def __init__(self, nome, cor, acordado=True):
