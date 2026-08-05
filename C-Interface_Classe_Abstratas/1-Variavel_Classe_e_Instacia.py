@@ -2,6 +2,7 @@ class Estudante:
     escola = "Melhor Plataform de Estudo - Dio"
     print("Link da DIO")
     
+    #instancia
     def __init__(self, nome , matricula):
         self.nome = nome
         self.matricula = matricula
